@@ -2,8 +2,12 @@ h1{
     text-align: center;
     margin: auto;
 }
-p{
+.first{
     text-align: justify;
     margin: 1% 25%;
 
+}
+.second{
+    text-align: justify;
+    margin: 0% 25%;
 }
