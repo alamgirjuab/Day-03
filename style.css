@@ -69,12 +69,23 @@ h2{
 }
 
 #baby-experience{
-    border-left: 10px solid;
-    border-image: linear-gradient(orange, tomato);
+    border-left: 7px solid;
+    border-image: linear-gradient(tomato, orange);
     border-image-slice: 1;
 }
 #full-experience{
-    border-left: 10px solid;
+    border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+}
+
+footer{
+    margin-top: 100px;
+    padding: 20px;
+    background-color: lightgray;
+}
+footer p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
 }
